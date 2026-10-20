@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Jalan Soeprapto",
+    "category": "Jalan",
+    "condition": "Baik",
+    "lat": -3.8004,
+    "lng": 102.2655
+  },
+  {
+    "id": 2,
+    "name": "Jembatan Sungai Hitam",
+    "category": "Jembatan",
+    "condition": "Perlu Perbaikan",
+    "lat": -3.766,
+    "lng": 102.279
+  },
+  {
+    "id": 3,
+    "name": "Taman Pantai Panjang",
+    "category": "Fasilitas Umum",
+    "condition": "Baik",
+    "lat": -3.8172,
+    "lng": 102.2565
+  },
+  {
+    "id": 4,
+    "name": "Jalan Pangeran Natadirja",
+    "category": "Jalan",
+    "condition": "Perlu Perbaikan",
+    "lat": -3.827,
+    "lng": 102.286
+  },
+  {
+    "id": 5,
+    "name": "Lapangan Merdeka",
+    "category": "Fasilitas Umum",
+    "condition": "Baik",
+    "lat": -3.789,
+    "lng": 102.263
+  }
+]
